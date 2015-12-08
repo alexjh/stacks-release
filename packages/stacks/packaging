@@ -2,4 +2,4 @@
 set -e -x
 
 echo "Copying rootfs"
-cp stacks/cflinuxfs2.tar.gz ${BOSH_INSTALL_TARGET}/cflinuxfs2.tar.gz
+cp stacks/cflinuxfs2-*.tar.gz ${BOSH_INSTALL_TARGET}/cflinuxfs2.tar.gz

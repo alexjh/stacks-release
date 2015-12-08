@@ -2,4 +2,4 @@
 name: stacks
 
 files:
-- stacks/cflinuxfs2.tar.gz
+- stacks/cflinuxfs2-*.tar.gz
