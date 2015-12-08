@@ -1,5 +1,7 @@
 ---
 blobstore:
-  provider: local
+  file_name: stacks
+  provider: s3
   options:
-    blobstore_path: /Users/pivotal/tmp/stacks-blobs
+    bucket_name: pivotal-buildpacks
+    folder: tmp/stacks-release-blobs
