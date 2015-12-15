@@ -1,0 +1,5 @@
+---
+builds:
+  625ccc93-7ab3-4f5d-aff2-f40019a468fc:
+    version: 1.22.0
+format-version: '2'
