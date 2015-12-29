@@ -4,4 +4,6 @@ builds:
     version: 1.22.0
   0d485d05-e489-4d8a-bcc4-7ac00f0536de:
     version: 1.23.0
+  cb2ae4ab-008b-457b-87dd-8d4525899275:
+    version: 1.24.0
 format-version: '2'
