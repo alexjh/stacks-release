@@ -1,0 +1,9 @@
+---
+name: cflinuxfs2
+templates:
+  ctl: bin/ctl
+
+packages:
+- cflinuxfs2
+
+properties: {}
