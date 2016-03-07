@@ -20,4 +20,6 @@ builds:
     version: 1.40.0
   7db5de40-e41c-4b03-8704-9c081ca0070b:
     version: 1.41.0
+  0803698b-5c67-4792-b79c-10b45ed49213:
+    version: 1.42.0
 format-version: '2'
