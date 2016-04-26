@@ -40,4 +40,6 @@ builds:
     version: 1.50.0
   ec3b395e-fd63-48c1-a7f1-77fe5a3b219f:
     version: 1.51.0
+  04757f5a-3aa0-4166-91f1-0de795b24d36:
+    version: 1.52.0
 format-version: '2'
