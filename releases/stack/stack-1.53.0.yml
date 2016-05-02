@@ -1,0 +1,16 @@
+---
+packages:
+- name: stacks
+  version: df20077b34570afdf65385cd720363dc187ed6f1
+  fingerprint: df20077b34570afdf65385cd720363dc187ed6f1
+  sha1: 29eaf6c8007d1c14048cc44b70958f7e3f08c302
+  dependencies: []
+jobs:
+- name: no_op
+  version: 0d1c07ccd8ca84d68a4826a30c3e127a8220cf65
+  fingerprint: 0d1c07ccd8ca84d68a4826a30c3e127a8220cf65
+  sha1: 7decbf5a2a2c91a9892d196c0ae26baa89ac7973
+commit_hash: 6bfa4397
+uncommitted_changes: true
+name: stack
+version: 1.53.0
