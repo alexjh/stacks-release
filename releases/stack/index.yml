@@ -54,4 +54,6 @@ builds:
     version: 1.57.0
   b254177a-76de-4500-819b-38a0cfbe35c8:
     version: 1.58.0
+  9b439aec-90ff-41fe-afc3-e37a386ece1d:
+    version: 1.59.0
 format-version: '2'
