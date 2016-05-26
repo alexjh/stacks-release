@@ -60,4 +60,6 @@ builds:
     version: 1.60.0
   de9d8bee-d419-40b3-b040-e9020e199565:
     version: 1.61.0
+  fbdfe9a2-d9e8-45c7-80d3-4e5e3318df91:
+    version: 1.62.0
 format-version: '2'
