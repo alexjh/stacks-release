@@ -64,4 +64,6 @@ builds:
     version: 1.62.0
   dba91d2d-7e2f-4e68-991e-35abb7da4552:
     version: 1.63.0
+  f53e5a9f-0c82-49b7-ac4d-7555dda0a1b5:
+    version: 1.64.0
 format-version: '2'
