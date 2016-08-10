@@ -84,4 +84,6 @@ builds:
     version: 1.72.0
   5925efe4-b21e-4626-af51-2f943ed3e513:
     version: 1.73.0
+  00e851c1-e818-4c84-9511-bb8192b228fa:
+    version: 1.74.0
 format-version: '2'
