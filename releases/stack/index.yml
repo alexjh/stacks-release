@@ -90,4 +90,6 @@ builds:
     version: 1.75.0
   3842173e-a272-4986-b835-2cac0b39265b:
     version: 1.76.0
+  0d980332-894a-4799-83ae-5f65d819ecdb:
+    version: 1.77.0
 format-version: '2'
