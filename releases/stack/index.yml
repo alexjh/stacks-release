@@ -98,4 +98,6 @@ builds:
     version: 1.79.0
   5d1bb2c0-4629-4f3d-891b-1a9993dab87f:
     version: 1.80.0
+  b2d05e0b-53e5-4c85-80c0-cd2011c38213:
+    version: 1.81.0
 format-version: '2'
