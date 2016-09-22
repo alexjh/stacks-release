@@ -100,4 +100,6 @@ builds:
     version: 1.80.0
   b2d05e0b-53e5-4c85-80c0-cd2011c38213:
     version: 1.81.0
+  a370f17f-70c0-4a96-86f5-9311ef11a916:
+    version: 1.82.0
 format-version: '2'
