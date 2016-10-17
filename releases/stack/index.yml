@@ -110,4 +110,6 @@ builds:
     version: 1.85.0
   c06fb669-7561-4e1a-b3f3-34f905879cb2:
     version: 1.86.0
+  d1d1c143-6179-490c-842b-468e48bc670c:
+    version: 1.87.0
 format-version: '2'
