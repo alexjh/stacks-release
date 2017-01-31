@@ -132,4 +132,6 @@ builds:
     version: 1.96.0
   0a237bc7-ecf3-4b01-bb0d-ad491bd80778:
     version: 1.97.0
+  fd4be69c-436a-43a6-85b9-c735a2a1c7e8:
+    version: 1.98.0
 format-version: '2'
